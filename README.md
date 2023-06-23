@@ -1,6 +1,5 @@
 #Screenshot from the app.
-
-![Uploading image.png…]()
+![image](https://github.com/mystafe/react-useEffect-training/assets/75567558/ab827282-e769-4921-8841-c7376b183e86)
 
 
 # Getting Started with Create React App
